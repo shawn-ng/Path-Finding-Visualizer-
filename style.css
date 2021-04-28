@@ -1,0 +1,27 @@
+table {
+    position:absolute;
+    top:12.5%;
+}
+
+tr>td {
+    table-layout: fixed;
+    visibility: visible;
+    background:white;
+    border: 1px solid black;
+    padding: 10px;
+
+}
+
+.execute {
+    background-color:antiquewhite;
+    position:absolute;
+    top:6.5%;
+    left: 48.5%;
+}
+
+.clear_wall{
+    background-color:antiquewhite;
+    position:absolute;
+    top: 6.5%;
+    left: 30%;
+}
