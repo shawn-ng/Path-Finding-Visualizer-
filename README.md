@@ -53,6 +53,11 @@ This is my very first JavaScript Project using JavaScript, HTML and CSS. After t
 
 - After having a a workable agorithm, I proceed into adding button and styling the the web app with basic CSS. I mainly focused on the additional button functions like clearing the wall function and the logic behind it.
 
+## Result 
+
+![Home page image](assets/Home Page Path Finding.png)
+![Pathed page image](assets/pathed image.png)
+
 ## Wins
 - This is my very first JS big project and I really enjoyed as it gives me a deep understanding of vanilla JS. What makes it more satisfied is that I'm able to implement the my knowledge on path finding algorithm into a visual form. I also enjoyed doing UI components and logics on the code. 
 
